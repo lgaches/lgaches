@@ -1,5 +1,4 @@
 ### Hi 👋 My name is Laurent Gaches
-=======================================
 
 I'm a Software Engineer.
 
